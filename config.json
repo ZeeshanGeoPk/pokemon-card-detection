@@ -1,0 +1,14 @@
+{
+    "detection_prompt": "collectible card with card front",
+    "detection_box_threshold": 0.65,
+    "detection_text_threshold": 0.3,
+    "weights_dir": "weights",
+    "grounding_dino_config_file": "GroundingDINO_SwinT_OGC.py",
+    "grounding_dino_weights_file": "groundingdino_swint_ogc.pth",
+    "image_dir": "pokemon_set",
+    "extraction_fps": 4,
+    "extraction_batch_size": 8,
+    "embedding_model": "dinov2_vits14",
+    "frames_per_batch": 8,
+    "device": "cpu"
+}
