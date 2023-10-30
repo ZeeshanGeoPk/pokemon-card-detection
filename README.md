@@ -1,4 +1,4 @@
-# Pokemon Card Detection
+# Pokemon Card Detection App
 
 This is a project that aims to detect and identify pokemon cards from videos of streamers opening pokemon packs. The project uses **OpenCV** and **Pytorch** to perform image processing and deep learning tasks.
 
