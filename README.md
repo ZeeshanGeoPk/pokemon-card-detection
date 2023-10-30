@@ -26,5 +26,5 @@ python app.py
 
 This will launch a web interface where you can upload a video file. The application will then detect and identify the pokemon cards in the video and output the numbers of cards pulled to an excel file.
 
-##Demo
+## Demo
 ![demo](https://github.com/ZeeshanGeoPk/pokemon-card-detection/assets/108798674/d78cae27-6926-4d20-9f1c-17a818d9cb79)
