@@ -2,6 +2,9 @@
 
 This is a project that aims to detect and identify pokemon cards from videos of streamers opening pokemon packs. The project uses **OpenCV** and **Pytorch** to perform image processing and deep learning tasks.
 
+## Model Weights
+Model weights can be found [here](https://huggingface.co/ZeeshanGeoPk/pokemon-card-detection). You need to place the model under "weights" folder
+
 ## Installation
 
 To install the required dependencies, you need to have **conda** installed on your system. Then, you can create a conda environment using the following command:
